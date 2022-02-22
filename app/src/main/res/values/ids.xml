@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tvnombre" type="id" />
+    <item name="tv_drecibidos" type="id" />
+    <item name="tvtelefono" type="id" />
+    <item name="tvemail" type="id" />
+    <item name="bt_editda" type="id" />
+    <item name="tvTwit" type="id" />
+</resources>
